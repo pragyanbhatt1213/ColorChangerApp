@@ -4,8 +4,6 @@ This React Native app changes the background color to a random one when you pres
 
 ## Getting Started
 
-> **Note**: Complete the [React Native Environment Setup](https://reactnative.dev/docs/environment-setup) instructions before proceeding.
-
 ### Step 1: Start Metro Server
 
 Run the following in your project root:
@@ -62,13 +60,4 @@ yarn ios
 
 - Refer to the [Troubleshooting Guide](https://reactnative.dev/docs/troubleshooting).
 - Ensure the emulator/simulator is properly configured.
-
-## Learn More
-
-- [React Native Website](https://reactnative.dev)
-- [Getting Started](https://reactnative.dev/docs/environment-setup)
-
-## License
-
-Open-source under the [MIT License](https://opensource.org/licenses/MIT).
 
